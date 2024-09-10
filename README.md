@@ -9,18 +9,17 @@
 > 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
 
 > [!TIP]
-> 最新版Docker镜像：`wxdadadada/new-api:latest`
+> 最新版Docker镜像：`wxdadadada/no-api:latest`
 > 默认账号root 密码123456
-> 更新指令：
-> ```
-> docker run --rm -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower -cR
-> ```
 
 
 ## 主要变更
 
 1. 前端界面调整
 
+## 项目文档
+
+[https://docs.qq.com/doc/p/af2a94ff20cd066dc642d20179a04006c9cba162](https://docs.qq.com/doc/p/af2a94ff20cd066dc642d20179a04006c9cba162)
 
 ## 演示地址
 
